@@ -1,0 +1,117 @@
+\documentclass{article}
+
+
+\usepackage{graphicx}
+\graphicspath{ {TwitterSentiment/} }
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+\title {Comparison of Oracle Stock Price vs Twitter Sentiment} 
+\author { Blake Guerrettaz  
+\\ School of Information Technology 
+\\ Illinois State University
+\\
+\texttt{baguerr@ilstu.edu}}
+\date{\today} 
+\maketitle
+
+Twitter sentiment, which was used in my graph looked at general sentiment of 200 stocks that contained the Oracle ticker symbol of ORCL that was then divided by 100. The change in stock price that I used was the stock price subtracted from \$42.08.
+
+By looking at the graph, you can't see a direct correlation between the sentiment (according to Twitter) and its respective stock price.  The value of the stock dropped 4 out of the 5 days that  I looked at but this was also due to the technology sector having some decreases in overall stock portfolios.
+
+Although I do believe that Twitter can predict to some extent the feelings and sentiment of certain companies and organizations, I see this to be less likely in a stock or company like Oracle.  Oracle generally doesn't deal with day-to-day items to where the general public would be commenting on the stock in either a positive or negative way.
+
+2 out of the 5 days I wasn't even able to get 200 tweets because the volume of tweets in general for Oracle weren't present.
+
+\begin{figure}[h!]
+\caption{Twitter Sentiment vs. Oracle Stock Price}
+<<echo=FALSE, error=FALSE, message=FALSE, eval=TRUE, fig=TRUE>>=
+
+library(ggplot2)
+library(reshape2)
+
+December <- c(3,4,5,6,7)
+y <- c(96/100, 76/100, -5/100, -5/100, -2/100)
+y1 <- c(0, .10, -.12, -.17, .04)
+
+sentiment <- data.frame(December =December , y=y)
+stock <- data.frame(December=December, y=y1)
+
+plot(December,y,type="o", col="red")
+points(December,y1,type="o",col="blue")
+
+zz <- melt(list(sentiment=sentiment, stock=stock), id.vars="December")
+
+p = ggplot(zz, aes(December, y=value, color=L1)) + 
+  geom_point() + 
+  geom_line(data=zz) +
+  scale_color_manual("Dataset", 
+                     values = c("sentiment" = "darkgreen", "stock" = "blue"))
+
+print(p)
+
+o3len = read.table("Oracle3Len.txt", skip=1)
+o3lenfin = o3len[,2]
+
+o4len = read.table("Oracle4Len.txt", skip=1)
+o4lenfin = o4len[,2]
+
+o5len = read.table("Oracle5Len.txt", skip=1)
+o5lenfin = o5len[,2]
+
+o6len = read.table("Oracle6Len.txt", skip=1)
+o6lenfin = o6len[,2]
+
+o7len = read.table("Oracle7Len.txt", skip=1)
+o7lenfin = o7len[,2]
+
+@
+\centering
+\end{figure}
+
+\begin{tabular}{lccc}
+\\
+The total number of tweets are as follows:
+\\
+- December 3rd: \Sexpr{o3lenfin}
+\\
+- December 4th: \Sexpr{o4lenfin}
+\\
+- December 5th: \Sexpr{o5lenfin}
+\\
+- December 6th: \Sexpr{o6lenfin}
+\\
+- December 7th: \Sexpr{o7lenfin}
+
+\end{tabular}
+
+\begin{figure}[h!]
+\caption{Twitter Sentiment for December 3rd.}
+\includegraphics[width=6cm]{Oracle3rd.pdf}
+\centering
+\end{figure}
+
+\begin{figure}[h!]
+\caption{Twitter Sentiment for December 4th.}
+\includegraphics[width=6cm]{Oracle4th.pdf}
+\centering
+\end{figure}
+
+\begin{figure}[h!]
+\caption{Twitter Sentiment for December 5th.}
+\includegraphics[width=6cm]{Oracle5th.pdf}
+\centering
+\end{figure}
+
+\begin{figure}[h!]
+\caption{Twitter Sentiment for December 6th.}
+\includegraphics[width=6cm]{Oracle6th.pdf}
+\centering
+\end{figure}
+
+\begin{figure}[H!]
+\caption{Twitter Sentiment for December 7th.}
+\includegraphics[width=6cm]{Oracle7th.pdf}
+\centering
+\end{figure}
+\end{document}

@@ -1,0 +1,411 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "541380016123019265" "@tommymessbauer @Oracle @joyent The only bed this rumor should be in is a death bed -- it has no basis in fact." "bcantrill" FALSE FALSE 1417910028
+"2" "541376018536497152" "RT @Oracle: Oracle CEO Mark Hurd: Make #HR A Real-Time Application:
+http://t.co/nH4xaDPWB3" "ginaoliveirasa" TRUE FALSE 1417909075
+"3" "541375953029844992" "RT @Oracle: Believe it or not, #Movember is a lot like good data. http://t.co/KssLJCrbCe" "ginaoliveirasa" TRUE FALSE 1417909060
+"4" "541375945299730432" "RT @Oracle: Digital transformation is disrupting today's marketplace. How can you harness business-led #IT? http://t.co/W7CIsT3ZgM via @For…" "ginaoliveirasa" TRUE FALSE 1417909058
+"5" "541375927356489728" "RT @Oracle: The Who, What and Chatter of
+Holiday Electronics Shoppers: http://t.co/xr8OuAkSj8 #BlackFriday #CyberMonday http://t.co/Fup41Ym…" "ginaoliveirasa" TRUE FALSE 1417909054
+"6" "541375917340508160" "RT @Oracle: How are #mobile purchases playing a role in #holidayshopping this year? [#STUDY] http://t.co/DgXZBDSFS4 http://t.co/LqxKeRxCWC" "ginaoliveirasa" TRUE FALSE 1417909051
+"7" "541375908238884864" "RT @Oracle: What does innovation mean in the world of #HR ? Interview w/ @Oracle’s Henry Barenholz http://t.co/QHt2ht7yuC via @OracleHCM" "ginaoliveirasa" TRUE FALSE 1417909049
+"8" "541375898675838976" "RT @Oracle: Consumer behavior around #holidayshopping and the latest gadgets revealed. [#STUDY] http://t.co/9K6XM9Bsqm http://t.co/DKyf7146…" "ginaoliveirasa" TRUE FALSE 1417909047
+"9" "541375888861179904" "RT @Oracle: Are your organization's training needs being met? [#Infographic] via @Oracle_Edu http://t.co/AvgCMKuaup" "ginaoliveirasa" TRUE FALSE 1417909044
+"10" "541375878765477888" "RT @Oracle: An innovative mix of hosted and #cloud solutions helps Shelf Drilling succeed in new waters - http://t.co/JG13g48GSa via @Oracl…" "ginaoliveirasa" TRUE FALSE 1417909042
+"11" "541375873484480513" "@bcantrill @Oracle @joyent So we can put this rumor to bed for the rest of 2014?" "tommymessbauer" FALSE FALSE 1417909041
+"12" "541375863770841089" "RT @Oracle: Wishing everyone a happy and safe weekend. #givethanks
+#thanksgiving #oracle http://t.co/rzLD2WTSMg" "ginaoliveirasa" TRUE FALSE 1417909038
+"13" "541375849065635840" "RT @Oracle: Marketing #data needs to be carefully pruned like the finest of mustaches - http://t.co/lD7W8BqCIJ #Movember" "ginaoliveirasa" TRUE FALSE 1417909035
+"14" "541375838458249216" "RT @Oracle: Why are consumers shopping #BlackFriday this year? [#STUDY] via @edisonresearch @Oracle - http://t.co/DgXZBDSFS4 http://t.co/td…" "ginaoliveirasa" TRUE FALSE 1417909032
+"15" "541375826152161280" "RT @Oracle: Are consumers doing the bulk of their #holidayshopping today? #BlackFriday http://t.co/9K6XM9Bsqm http://t.co/JP10Cgqcmt" "ginaoliveirasa" TRUE FALSE 1417909029
+"16" "541375761626963968" "RT @Oracle: How closely do consumers stick to their #holidayshopping plans? [#STUDY] http://t.co/DgXZBDSFS4 via @edisonresearch @Oracle" "ginaoliveirasa" TRUE FALSE 1417909014
+"17" "541375754517643265" "RT @Oracle: The Internet of Things 101 - http://t.co/DRAtrQIjch #IoT via @Oraclejavamag" "ginaoliveirasa" TRUE FALSE 1417909012
+"18" "541375747982917633" "RT @Oracle: Where will @OracleTeamUSA be defending the 35th #AmericasCup? Location revealed today at 11:30am ET. Watch live: http://t.co/Nx…" "ginaoliveirasa" TRUE FALSE 1417909011
+"19" "541375739392954368" "RT @Oracle: RT @OracleTeamUSA: Just announced: The 35th #AmericasCup to be held in June 2017 in Bermuda. #OracleTeamUSA" "ginaoliveirasa" TRUE FALSE 1417909009
+"20" "541375731302141952" "RT @Oracle: .@OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. http://t.co/u0Li…" "ginaoliveirasa" TRUE FALSE 1417909007
+"21" "541375719612633088" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "ginaoliveirasa" TRUE FALSE 1417909004
+"22" "541375708157997056" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "ginaoliveirasa" TRUE FALSE 1417909001
+"23" "541375695394713600" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "ginaoliveirasa" TRUE FALSE 1417908998
+"24" "541375671009034240" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "ginaoliveirasa" TRUE FALSE 1417908992
+"25" "541375652210151425" "RT @Oracle: 5 tips to transform your #CustomerService from okay to outstanding - http://t.co/eAHXZ682qC via @Forbes" "ginaoliveirasa" TRUE FALSE 1417908988
+"26" "541375615681970176" "RT @Oracle: Engineered Systems: thinking beyond the box, a special report via @OracleProfit - http://t.co/ie9FuFoipI" "ginaoliveirasa" TRUE FALSE 1417908979
+"27" "541375601966596096" "RT @Oracle: #Oracle and @Forbes surveyed 300+ Executives to learn how they're modernizing #CustomerService - http://t.co/OTqIPeLVvD" "ginaoliveirasa" TRUE FALSE 1417908976
+"28" "541375586342813696" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "ginaoliveirasa" TRUE FALSE 1417908972
+"29" "541368993718603776" "CDSi is a proud @Oracle partner and our clients leverage our expertise in all of their #applications and technology http://t.co/lmH4Wyf5Ci" "CDSi_USA" FALSE FALSE 1417907400
+"30" "541365971898740736" "4 Attributes of Your Next Content Marketing Superstar - http://t.co/m0SisUqF1S via @Oracle" "Leadspace" FALSE FALSE 1417906680
+"31" "541361264757198848" "@bcantrill sadly it appears one does not need to work @oracle to treat nodejs contributors the way it treated hudson/jenkins ones." "goodwillbits" FALSE FALSE 1417905558
+"32" "541361110180323328" "RT @paragochannel: .@Oracle Seeking New #ChannelChief As Geraffo Moves To North America Sales Post http://t.co/uID81SdtoT via @CRN #Channel…" "Channel_Event" TRUE FALSE 1417905521
+"33" "541350872765063168" "Off to see the @Oracle patching wizard: http://t.co/Z2nOy6QD5h" "SearchOracle" FALSE FALSE 1417903080
+"34" "541337514510802944" "RT @Yeager_Steve: \"Why Application Unlimited is a good strategy for @Oracle customers and Oracle:\" http://t.co/kdvmLXrAKG via @holgermu in …" "holgermu" TRUE FALSE 1417899895
+"35" "541336908954349568" "RT @bcantrill: @kjjaeger @tommymessbauer @Oracle @joyent Which I would do again -- in a heartbeat. (Part of why this rumor is beyond absurd…" "fredericalix" TRUE FALSE 1417899751
+"36" "541334766377660416" "The seven deadly sins that lead to an @Oracle #audit: http://t.co/R5LnNBSE0S" "SearchOracle" FALSE FALSE 1417899240
+"37" "541334489042284545" "@kjjaeger @tommymessbauer @Oracle @joyent Which I would do again -- in a heartbeat. (Part of why this rumor is beyond absurd.)" "bcantrill" FALSE FALSE 1417899174
+"38" "541322069066383360" "RT @Oracle: Engineered Systems: thinking beyond the box, a special report via @OracleProfit - http://t.co/ie9FuFoipI" "MarkWMorales" TRUE FALSE 1417896213
+"39" "541315123458359296" "RT @Oracle: 5 tips to transform your #CustomerService from okay to outstanding - http://t.co/eAHXZ682qC via @Forbes" "veronicaip13" TRUE FALSE 1417894557
+"40" "541302761418018816" "@tommymessbauer @Oracle @joyent I figured that was the case, but I would laugh a lot if it happened and Cantrill had to quit Oracle - again!" "kjjaeger" FALSE FALSE 1417891609
+"41" "541302607177080832" "RT @WebCenterSpeak: Redstone Achieves Platinum Partner Level!
+http://t.co/ZRcR9fJ9bK @Oracle @OracleBlogs @oraclewebcenter #WebCenter" "jasonstortz" TRUE FALSE 1417891573
+"42" "541300454320128000" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "PauloManzato" TRUE FALSE 1417891059
+"43" "541290721752252417" "@kjjaeger @Oracle @joyent \"a day\" = and" "tommymessbauer" FALSE FALSE 1417888739
+"44" "541289435724136448" "@kjjaeger @Oracle @joyent Oracle a day joyent is a dirty rumor at this point.  We'll have to see what happens." "tommymessbauer" FALSE FALSE 1417888432
+"45" "541286014162313216" "RT @rwang0: Join me @Oracle #CloudWorld to learn how to use the #cloud and #disruptivetech to transform your org. http://t.co/knCyUsgEfS" "Darrengier" TRUE FALSE 1417887617
+"46" "541283636931080193" "Join me @Oracle #CloudWorld to learn how to use the #cloud and #disruptivetech to transform your org. http://t.co/knCyUsgEfS" "rwang0" FALSE FALSE 1417887050
+"47" "541265039496212480" "@tommymessbauer @Oracle @joyent There would need to be a fork of #SmartOS too, which would be kind of funny considering how it started." "kjjaeger" FALSE FALSE 1417882616
+"48" "541260280941281281" "\"Why Application Unlimited is a good strategy for @Oracle customers and Oracle:\" http://t.co/kdvmLXrAKG via @holgermu in the blogosphere..." "Yeager_Steve" FALSE FALSE 1417881481
+"49" "541257585455022080" "vulnerabilities have been discovered in #OpenJDK, an implementation of the @Oracle #Java platform #Debian #Linux https://t.co/JY71wds45G" "CDButler" FALSE FALSE 1417880839
+"50" "541255093807349760" "@Oracle when people set the Java updater to not update automatically, they actually mean it. They don't want the prompt all the time. Uninst" "Calicranstunson" FALSE FALSE 1417880245
+"51" "541246178705158144" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "CodeTheTown" TRUE FALSE 1417878119
+"52" "541237164487766016" "RT @servpartnerjobs: Oracle Direct is hiring Sales Consultants in Dublin and Malaga! via @oracle http://t.co/unHQxHiUZn #oracle http://t.co…" "blisslogixIT" TRUE FALSE 1417875970
+"53" "541235899032297475" "Oracle Direct is hiring Sales Consultants in Dublin and Malaga! via @oracle http://t.co/unHQxHiUZn #oracle http://t.co/kaIvAVsJzs" "servpartnerjobs" FALSE FALSE 1417875668
+"54" "541235029158805505" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "OracleLover0" TRUE FALSE 1417875461
+"55" "541227562362740736" "Join @rwang0 at Oracle CloudWorld to learn how to use #disruptivetech to transform your organization. http://t.co/EKqYM4kwtm #cloud @oracle" "ConstellationRG" FALSE FALSE 1417873681
+"56" "541227562098524160" "Join @rwang0 at Oracle CloudWorld to learn how to use #disruptivetech to transform your organization. http://t.co/q3oYuEq3Dt #cloud @oracle" "courtneysato" FALSE FALSE 1417873680
+"57" "541225714163265536" "Rumor has it @Oracle is buying @joyent.  I am so happy io.js happened.  Java was such a more open exciting env in the Sun days." "tommymessbauer" FALSE FALSE 1417873240
+"58" "541218650296827905" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "HEUG_EMEA" TRUE FALSE 1417871556
+"59" "541210909151354880" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "MartineStabile" TRUE FALSE 1417869710
+"60" "541209219689873409" "@Oracle java EE7 tutorial seems to be down? 404 all over the place..." "MichelSchudel" FALSE FALSE 1417869307
+"61" "541199667972022272" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "WorldRanks" TRUE FALSE 1417867030
+"62" "541197546249789440" "@GinsbergIO can't -off to Silicon Valley with @theSaltireF 2 meet @google @Oracle @HeidiRoizen and others. Any questions you want me to ask?" "ktmcnl" FALSE FALSE 1417866524
+"63" "541177885839855616" "RT @krissaether: This week @Oracle #ISV day #Oslo we saw combination of @OracleBITech and @XaitPorter by @RightBi - number and human analyt…" "bellylie" TRUE FALSE 1417861837
+"64" "541170277225205762" "Stay plugged in, without being tied down. @Oracle #Mobile. Simply Connected. [#video] http://t.co/NFdUX5xiw2 http://t.co/UAeCYKloGL" "d_vermeij" FALSE FALSE 1417860023
+"65" "541168549121638400" "Stay plugged in, without being tied down. @Oracle #Mobile. Simply Connected. [#video] http://t.co/hKF84khBFJ http://t.co/XPO33ExdbN" "hvanabswoude" FALSE FALSE 1417859611
+"66" "541163778084466689" "Exhausted after a dreadful week due to Ebola, business travel, &amp; the useless, lying cunts @Oracle Not moving very much today" "parlow72" FALSE FALSE 1417858473
+"67" "541155167903563777" "Stay plugged in, without being tied down. @Oracle #Mobile. Simply Connected. [#video] http://t.co/lFIyPnAmmW http://t.co/1CZEDFvwQI" "d_vermeij" FALSE FALSE 1417856420
+"68" "541138756376748032" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "obruyere" TRUE FALSE 1417852508
+"69" "541122401153851392" "RT @toatech It's official @toatech is now Oracle! But we'd love to stay in touch-follow us @Oracle!" "mafejinakeki" FALSE FALSE 1417848608
+"70" "541119736827113473" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "questfrnirvana" TRUE FALSE 1417847973
+"71" "541117625460219904" "RT @IntelITCenter: Today @Oracle shared details on their new servers based on #XeonE5. Get the background w/ @TechAllyson on Chip Chat http…" "DoeboizMyers" TRUE FALSE 1417847470
+"72" "541090926483869696" "#StevieWonder at @Oracle w/ @conrazon! Yee!!" "diondecibels" FALSE FALSE 1417841104
+"73" "541090156158402560" "Since I can 'code in the dark' I think I want a job at @Oracle" "just_Colonel" FALSE FALSE 1417840920
+"74" "541084434963783680" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "thyaga12" TRUE FALSE 1417839556
+"75" "541079582258892801" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "vanessa_zito" TRUE FALSE 1417838399
+"76" "541073881612951552" "RT @DawnBear74: Two months without any customers support or training. What's going on @Oracle. We can't receive  any service or support #or…" "blisslogixIT" TRUE FALSE 1417837040
+"77" "541071242418483202" "Two months without any customers support or training. What's going on @Oracle. We can't receive  any service or support #oracle #micros" "DawnBear74" FALSE FALSE 1417836411
+"78" "541062142095413248" "RT @Oracle: 5 tips to transform your #CustomerService from okay to outstanding - http://t.co/eAHXZ682qC via @Forbes" "EmpiricalTech" TRUE FALSE 1417834241
+"79" "541057891533217793" "RT @IOT_RR: Internet of Things @Oracle Suite for #WebRTC  http://t.co/ksHb0qO3pC" "MotoChauffeur" TRUE FALSE 1417833228
+"80" "541048682158641152" "Join @rwang0 at Oracle #CloudWorld to learn how to use #disruptivetech to transform your organization. http://t.co/pToKxN1F06 #cloud @oracle" "elaineism" FALSE FALSE 1417831032
+"81" "541034884161372160" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "Raphy_M" TRUE FALSE 1417827742
+"82" "541034377782636544" ".@MarkVHurd announces @Oracle's 10,000th engineered system sold. via @OracleProfit: http://t.co/NDNgPNOzvp http://t.co/UqMgGOuVTo" "d_vermeij" FALSE FALSE 1417827622
+"83" "541031817722073088" "RT @OracleFMS: Don’t miss out @Oracle #ERP #Cloud Live weekly demos on Finance best practices http://t.co/Wb55vBAIP5" "recuweb" TRUE FALSE 1417827011
+"84" "541031444265435136" "RT @OracleFMS: Don’t miss out @Oracle #ERP #Cloud Live weekly demos on Finance best practices http://t.co/Wb55vBAIP5" "cdownieoracle" TRUE FALSE 1417826922
+"85" "541022680627965952" "RT @TCS_Oracle: SPEED: Optimize your #supply chain with TCS' @Oracle Rapid Start Supply Chain Planning Optimization solution: http://t.co/p…" "TVGN123Hero" TRUE FALSE 1417824833
+"86" "541022408384458752" "SPEED: Optimize your #supply chain with TCS' @Oracle Rapid Start Supply Chain Planning Optimization solution: http://t.co/pdoUHAQSCv #OVCS" "TCS_Oracle" FALSE FALSE 1417824768
+"87" "541014375352381441" "30 SQL Developer Posts in 30 Days, Day 23: Invalid Objec... via @oracle http://t.co/pJKUP6SjWm #recompile #objects http://t.co/KNi7YUSQeK" "servpartnerjobs" FALSE FALSE 1417822853
+"88" "541013303091138561" "Dear @Oracle: I switched to #Linux to get away from binary installers. You are making that very hard for me. Thankfully there is #OpenJDK..." "brwyatt" FALSE FALSE 1417822597
+"89" "541008286309298176" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "Krola14" TRUE FALSE 1417821401
+"90" "541008272572944385" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "Krola14" TRUE FALSE 1417821398
+"91" "541008262079184896" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "Krola14" TRUE FALSE 1417821395
+"92" "541008250859028481" "RT @Oracle: 5 tips to transform your #CustomerService from okay to outstanding - http://t.co/eAHXZ682qC via @Forbes" "Krola14" TRUE FALSE 1417821393
+"93" "541008244823445505" "RT @Oracle: Engineered Systems: thinking beyond the box, a special report via @OracleProfit - http://t.co/ie9FuFoipI" "Krola14" TRUE FALSE 1417821391
+"94" "541008234715164672" "RT @Oracle: #Oracle and @Forbes surveyed 300+ Executives to learn how they're modernizing #CustomerService - http://t.co/OTqIPeLVvD" "Krola14" TRUE FALSE 1417821389
+"95" "541008219464683520" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "Krola14" TRUE FALSE 1417821385
+"96" "541007216325984256" ".@THW_YouTube has the latest vids from @SAP @Oracle @ADP @Sage @infor @microsoft @EYnews @PwC_LLP @Accenture @Deloitt http://t.co/oFv0IDz8qS" "hriscareerworld" FALSE FALSE 1417821146
+"97" "541001793975496705" "RT @krissaether: This week @Oracle #ISV day #Oslo we saw combination of @OracleBITech and @XaitPorter by @RightBi - number and human analyt…" "jamessnowtexas" TRUE FALSE 1417819853
+"98" "541001514454888449" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "hvanabswoude" TRUE FALSE 1417819787
+"99" "540997401348030464" "@Oracle javadoc package list iframe is broken in javadoc when viewed with frames, e.g., https://t.co/L4NBVoF5BR" "cwestin63" FALSE FALSE 1417818806
+"100" "540995012272467968" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "LynnKaminski" TRUE FALSE 1417818236
+"101" "540994684257304576" "RT @krissaether: This week @Oracle #ISV day #Oslo we saw combination of @OracleBITech and @XaitPorter by @RightBi - number and human analyt…" "XaitPorter" TRUE FALSE 1417818158
+"102" "540991174832422912" "RT @JSaylorIII: @Oracle #Streams has been deprecated. You have choices! http://t.co/PdJkcG0Eiy Achieve better Oracle Economics with #ShareP…" "PRodas1" TRUE FALSE 1417817321
+"103" "540990046497931265" "RT @HyperionEPMInfo: Live Webcast &amp; Demo: .@Oracle #PBCS can solve your budgeting and forecasting challenges. Register now http://t.co/9U5Z…" "keesvdhouten" TRUE FALSE 1417817052
+"104" "540988484551319553" ".@Oracle builds up #cloud engineering team, updates #Solaris Studio: http://t.co/xXQFBAAtAH" "SearchOracle" FALSE FALSE 1417816680
+"105" "540986242473533440" "RT @JSaylorIII: @Oracle #Streams has been deprecated. You have choices! http://t.co/PdJkcG0Eiy Achieve better Oracle Economics with #ShareP…" "CJKendall1979" TRUE FALSE 1417816145
+"106" "540985819172208641" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "blisslogixIT" TRUE FALSE 1417816044
+"107" "540985386168639488" "GM to expand its social outreach strategy overseas @Oracle http://t.co/6TfVDCNOvA via @digiday #social" "rvandesteeg" FALSE FALSE 1417815941
+"108" "540985187728105473" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "sonyaya1" TRUE FALSE 1417815894
+"109" "540984843597651968" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "susanaumack" TRUE FALSE 1417815812
+"110" "540983129578930176" "RT @holgermu: This was a great interview explaining @Oracle #DaaS and #Multitenancy - Check out http://t.co/p9TaeYKfyl - thanks @SearchOrac…" "vkolbe1" TRUE FALSE 1417815403
+"111" "540982372951261184" "This was a great interview explaining @Oracle #DaaS and #Multitenancy - Check out http://t.co/p9TaeYKfyl - thanks @SearchOracle &amp; David!" "holgermu" FALSE FALSE 1417815223
+"112" "540980473812762624" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "SMItechWired" TRUE FALSE 1417814770
+"113" "540980447879376897" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "NodeSystems" TRUE FALSE 1417814764
+"114" "540980376777551872" "RT @Oracle: #Cloud was the story at #OOW14, and the conversation continues: http://t.co/6Jt3l2Uq4m via @oraclecloudzone" "bestcloudnews" TRUE FALSE 1417814747
+"115" "540979744792002560" "RT @SnapLogic: Snapping a join to connect @oracle and @awscloud #redshift #ipaas #etl https://t.co/TSnhTwbS8h" "charlierein" TRUE FALSE 1417814596
+"116" "540976525051695104" "RT @HyperionEPMInfo: Live Webcast &amp; Demo: .@Oracle #PBCS can solve your budgeting and forecasting challenges. Register now http://t.co/9U5Z…" "opal_EPM" TRUE FALSE 1417813829
+"117" "540976478998253569" "Redstone Achieves Platinum Partner Level!
+http://t.co/ZRcR9fJ9bK @Oracle @OracleBlogs @oraclewebcenter #WebCenter" "WebCenterSpeak" FALSE FALSE 1417813818
+"118" "540972584440188928" "Find out how @Oracle #Hyperion #Tax provision is a game changer for @Deloitte http://t.co/3PJpVo8fD9" "hvanabswoude" FALSE FALSE 1417812889
+"119" "540972378801442816" "At @Oracle, November was a month of continuing to prepare for greater #cloud impact: http://t.co/hYb3l7Vf85" "SearchOracle" FALSE FALSE 1417812840
+"120" "540972018271674368" "Live Webcast &amp; Demo: .@Oracle #PBCS can solve your budgeting and forecasting challenges. Register now http://t.co/9U5ZgI7ij6" "HyperionEPMInfo" FALSE FALSE 1417812754
+"121" "540971072976199680" "@Oracle  DM with any questions or to request a meeting. #GrowWithUs #JoinTheCorridor" "RichardsonEDP" FALSE FALSE 1417812529
+"122" "540971041971908608" "@Oracle This video should introduce you to Richardson and the Telecom Corridor®. #GrowWithUs #JoinTheCorridor http://t.co/fxfDYOqcAa" "RichardsonEDP" FALSE FALSE 1417812521
+"123" "540971028365574145" "@Oracle We will be sharing with you why Richardson should be on your radar next time you expand. #GrowWithUs #JoinTheCorridor" "RichardsonEDP" FALSE FALSE 1417812518
+"124" "540970962963820544" "@Oracle Next week we will be in California to chat about growing into Richardson. #GrowWithUs #JoinTheCorridor" "RichardsonEDP" FALSE FALSE 1417812502
+"125" "540968635825520640" "Permanently filtering out/blocking @OldFieldSol for constant #measure twitterspam. Awful reflection of @Oracle brand. http://t.co/GcReG73Z4E" "BlairReeves" FALSE FALSE 1417811948
+"126" "540967040170098688" "Join @rwang0 at Oracle #CloudWorld to learn how to use #disruptivetech to transform your organization. http://t.co/mcrTsSbjtb #cloud @oracle" "holgermu" FALSE FALSE 1417811567
+"127" "540966326450151425" "RT @syntax_systems: Happy to announce that @Kindsnacks has found a healthy ERP solution with Syntax and @Oracle JD Edwards - http://t.co/xp…" "lyleekdahl" TRUE FALSE 1417811397
+"128" "540964279801761793" "@oracle #convergedsystems Exalytics- one of the coolest in 2014 - http://t.co/CJBhaIQncj" "ranjitn" FALSE FALSE 1417810909
+"129" "540964232763015169" "RT @oraclepartners: Learn how to use @Oracle @Java Cloud Service to extend + integrate Oracle SaaS applications: http://t.co/Wr6aSQdhHk #OP…" "INFOITCOLLEGE" TRUE FALSE 1417810898
+"130" "540962293040050176" ".@THW_YouTube has the latest vids from @SAP @Oracle @ADP @Sage @infor @microsoft @EYnews @PwC_LLP @Accenture @Deloitt http://t.co/gxLq4R14Kn" "hriscareerworld" FALSE FALSE 1417810435
+"131" "540960166104293376" "RT @kiwigate: Join @rwang0 at Oracle #CloudWorld to learn how to use #disruptivetech to transform your organization. http://t.co/X385Ewy4OB…" "amesquit" TRUE FALSE 1417809928
+"132" "540958897402433536" "RT @oraclepartners: Learn how to use @Oracle @Java Cloud Service to extend + integrate Oracle SaaS applications: http://t.co/Wr6aSQdhHk #OP…" "susanaumack" TRUE FALSE 1417809626
+"133" "540958638933045248" "RT @JSaylorIII: @Oracle #Streams has been deprecated. You have choices! http://t.co/PdJkcG0Eiy Achieve better Oracle Economics with #ShareP…" "jsurr" TRUE FALSE 1417809564
+"134" "540958601247207424" "RT @JSaylorIII: Don't Tell your DBA. ILM archives data from PROD @Oracle DB creates performance issue - Fixed SpaceLIVE http://t.co/UAW1MJz…" "jsurr" TRUE FALSE 1417809555
+"135" "540958565532700672" "RT @JSaylorIII: Don't tell your DBA. But you can replace @Oracle #Streams -&gt;#SharePlex http://t.co/6Eb3jg873a for enterprise-class replicat…" "jsurr" TRUE FALSE 1417809547
+"136" "540957754072915968" "Learn how to use @Oracle @Java Cloud Service to extend + integrate Oracle SaaS applications: http://t.co/Wr6aSQdhHk #OPNCloudConnection" "oraclepartners" FALSE FALSE 1417809353
+"137" "540954950592118784" "Join @rwang0 at Oracle #CloudWorld to learn how to use #disruptivetech to transform your organization. http://t.co/X385Ewy4OB #cloud @oracle" "kiwigate" FALSE FALSE 1417808685
+"138" "540953982051831808" "RT @Eloqua: RT @oracle: What can we learn from @Uber and @Airbnb? New Ways To Embrace The Power Of The Crowd featuring @jowyang:
+http://t.c…" "Notoldat42" TRUE FALSE 1417808454
+"139" "540953284799127552" "RT @SteveStawarz: Top 5 reasons to attend the @Oracle Value Chain Summit #OVCS #SupplyChain [VIDEO] http://t.co/KZyPlektOI  See you there!" "SCM_guru" TRUE FALSE 1417808288
+"140" "540952932003241984" "Top 5 reasons to attend the @Oracle Value Chain Summit #OVCS #SupplyChain [VIDEO] http://t.co/KZyPlektOI  See you there!" "SteveStawarz" FALSE FALSE 1417808204
+"141" "540950254942973953" "Happy to announce that @Kindsnacks has found a healthy ERP solution with Syntax and @Oracle JD Edwards - http://t.co/xpv4oQ1NA7" "syntax_systems" FALSE FALSE 1417807565
+"142" "540947237237719040" "RT @PTigerman: Interested in Tech Stuff around @Oracle @AgilePLM? Get Free tips in this Blog. http://t.co/jKxPYCpbrl" "PLMJim" FALSE FALSE 1417806846
+"143" "540946670570471424" "RT @OracleFMS: Don’t miss out @Oracle #ERP #Cloud Live weekly demos on Finance best practices http://t.co/Wb55vBAIP5" "nadianizar" TRUE FALSE 1417806711
+"144" "540946217375920128" "Don’t miss out @Oracle #ERP #Cloud Live weekly demos on Finance best practices http://t.co/Wb55vBAIP5" "OracleFMS" FALSE FALSE 1417806603
+"145" "540945602469584896" "Top Five Worldwide Server Vendors  http://t.co/is5Kqxu8aS - @Oracle revenue grows" "ranjitn" FALSE FALSE 1417806456
+"146" "540944059930800128" "Just a few more days! @Oracle BI Cloud Service (BICS) Overview and Demo http://t.co/1LBWW63tVg @OracleEPMBI @OracleAnalytics" "PerfArchitects" FALSE FALSE 1417806088
+"147" "540942191489593345" "RT @SnapLogic: Snapping a join to connect @oracle and @awscloud #redshift #ipaas #etl https://t.co/TSnhTwbS8h" "pranealn" TRUE FALSE 1417805643
+"148" "540942132325130241" "Join @rwang0 at Oracle #CloudWorld to learn how to use #disruptivetech to transform your organization. http://t.co/TSaqK5Xslo #cloud @oracle" "SherrieCR" FALSE FALSE 1417805629
+"149" "540942081837895680" "RT @soacommunity: Top tweets SOA &amp; BPM Partner Community – December 2014 RT if you are part of it! https://t.co/7lMhisetHB @OracleBPM @Orac…" "Dreamix_Ltd" TRUE FALSE 1417805617
+"150" "540938635701649409" "Snapping a join to connect @oracle and @awscloud #redshift #ipaas #etl https://t.co/TSnhTwbS8h" "SnapLogic" FALSE FALSE 1417804795
+"151" "540933827103711232" "RT @elaycohen: Hello @salesforce @Oracle @marketo @Eloqua sales execs. Join our disruptive startup @SalesHood? #saas #mobile http://t.co/Go…" "SalesHood" TRUE FALSE 1417803649
+"152" "540933685160050688" ".@MarkVHurd announces @Oracle's 10,000th engineered system sold. via @OracleProfit: http://t.co/f8OmhmvokA http://t.co/ISOl7kvUtS" "TPhillipsOracle" FALSE FALSE 1417803615
+"153" "540932131078541312" "Find out how @Oracle #Hyperion #Tax provision is a game changer for @Deloitte http://t.co/sRCtCOnw2O" "ORCLBERNARD" FALSE FALSE 1417803244
+"154" "540931825703870465" "RT @Oracle: #Oracle and @Forbes surveyed 300+ Executives to learn how they're modernizing #CustomerService - http://t.co/OTqIPeLVvD" "GripeO_Outreach" TRUE FALSE 1417803171
+"155" "540928931302768641" "How @Oracle, @Deltek (and Vidyard!) Use Video Analytics In Real #ContentMarketing Campaigns: http://t.co/NhnRHJ4rFp" "vidyard" FALSE FALSE 1417802481
+"156" "540926193403695104" "Join @rwang0 at Oracle #CloudWorld to learn how to use #disruptivetech to transform your org. http://t.co/wbm6xYocQj #cloud @Oracle" "VaughanTA" FALSE FALSE 1417801829
+"157" "540925942571339777" "For this problem, we can blame anybody we like: @sun, @java, @oracle, @apple, @startcom! Who else joins the roster?" "mlissner" FALSE FALSE 1417801769
+"158" "540923427675463680" "RT @Oracle: #Oracle and @Forbes surveyed 300+ Executives to learn how they're modernizing #CustomerService - http://t.co/OTqIPeLVvD" "CXAlert" TRUE FALSE 1417801169
+"159" "540922805131288576" "Real-Time feed of company contracts, original agreements and executive updates from Oracle $ORCL @oracle http://t.co/bnOJZva77D" "DailyContracts" FALSE FALSE 1417801021
+"160" "540922746038128640" "RT @ConstellationRG: Join @rwang0 at Oracle CloudWorld to learn how to use #disruptivetech to transform your organization. http://t.co/et3G…" "CaronHohner" TRUE FALSE 1417801007
+"161" "540921926516871168" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "g_rajeshwari" TRUE FALSE 1417800811
+"162" "540921887920898048" "RT @Oracle: #Oracle and @Forbes surveyed 300+ Executives to learn how they're modernizing #CustomerService - http://t.co/OTqIPeLVvD" "Jeff__C__Miller" TRUE FALSE 1417800802
+"163" "540921805557743616" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "SYSCONtv" TRUE FALSE 1417800782
+"164" "540921685860691968" "Join @rwang0 at Oracle CloudWorld to learn how to use #disruptivetech to transform your organization. http://t.co/e0heG2qs3V #cloud @oracle" "courtneysato" FALSE FALSE 1417800754
+"165" "540921685533540352" "Join @rwang0 at Oracle CloudWorld to learn how to use #disruptivetech to transform your organization. http://t.co/et3GbpQeH2 #cloud @oracle" "ConstellationRG" FALSE FALSE 1417800754
+"166" "540921453806620672" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "Print3DExpo" TRUE FALSE 1417800699
+"167" "540921092496691200" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "GonzalezCarmen" TRUE FALSE 1417800612
+"168" "540920746051375104" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "SDDCexpo" TRUE FALSE 1417800530
+"169" "540920193409884160" "RT @soacommunity: Top tweets SOA &amp; BPM Partner Community – December 2014 RT if you are part of it! https://t.co/7lMhisetHB @OracleBPM @Orac…" "tompeez" TRUE FALSE 1417800398
+"170" "540918970950631424" "Want to connect w @Oracle Applications users w purchasing power? #C15LV booth selection starts in DAYS. Sign up now: http://t.co/8DLUIjkliz" "COLLAB_OAUG" FALSE FALSE 1417800107
+"171" "540918492526956544" "Top tweets SOA &amp; BPM Partner Community – December 2014 RT if you are part of it! https://t.co/7lMhisetHB @OracleBPM @OracleSOA @Oracle" "soacommunity" FALSE FALSE 1417799993
+"172" "540917008150192128" "RT @JSaylorIII: Is @Oracle to expensive? Don't tell your CxO. But, #SharePlex allows real-time data movement to more cost-effective platfor…" "CJKendall1979" TRUE FALSE 1417799639
+"173" "540916767560720386" "RT @JSaylorIII: #SharePlex Unrivaled affordability over @Oracle #GoldenGate monitoring, repair, alerting interface, plus more — all in one …" "CJKendall1979" TRUE FALSE 1417799581
+"174" "540916674040717312" "RT @JSaylorIII: Don't tell your DBA. But you can replace @Oracle #Streams -&gt;#SharePlex http://t.co/6Eb3jg873a for enterprise-class replicat…" "CJKendall1979" TRUE FALSE 1417799559
+"175" "540916631732359170" "RT @JSaylorIII: Don't Tell your DBA. ILM archives data from PROD @Oracle DB creates performance issue - Fixed SpaceLIVE http://t.co/UAW1MJz…" "CJKendall1979" TRUE FALSE 1417799549
+"176" "540916544885104640" "RT @oraclemagazine: Brief: @Oracle adds 6 new platform services to #Cloud loud portfolio #Bigdata. http://t.co/viKtwVSbfE http://t.co/gDBVZ…" "accusoftinfoway" TRUE FALSE 1417799528
+"177" "540916297949663232" "RT @oraclemagazine: Brief: @Oracle adds 6 new platform services to #Cloud loud portfolio #Bigdata. http://t.co/viKtwVSbfE http://t.co/gDBVZ…" "OracleLover0" TRUE FALSE 1417799469
+"178" "540916282192039936" "Watch this video http://t.co/DByQmCxrf8 and see how Ovation Brands is reinventing the casual dining experience with @Oracle #ERP #Cloud" "Laurent_Ducros" FALSE FALSE 1417799466
+"179" "540916022577217536" "Find out how @Oracle #Hyperion #Tax provision is a game changer for @Deloitte http://t.co/k7ZIxwkhkR" "Laurent_Ducros" FALSE FALSE 1417799404
+"180" "540915624604893184" "This week @Oracle #ISV day #Oslo we saw combination of @OracleBITech and @XaitPorter by @RightBi - number and human analytics combined!" "krissaether" FALSE FALSE 1417799309
+"181" "540915250972090368" "I Love @Java @Oracle  @Delphi @Netbeans  I Love Programming." "AfrikaBrothers" FALSE FALSE 1417799220
+"182" "540913533748125696" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "faith6357" TRUE FALSE 1417798810
+"183" "540911816675954689" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "EnventorsLab" TRUE FALSE 1417798401
+"184" "540911814310395904" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "BigDataExpo" TRUE FALSE 1417798400
+"185" "540911754394755072" "RT @java: @OracleAcademy @Oracle Women's Leadership teach high school girls @java using #Alice in Bucharest, Romania. http://t.co/4HKJoVwprf" "volatile_joe" TRUE FALSE 1417798386
+"186" "540911462597009409" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "TeeShirtTweets" TRUE FALSE 1417798316
+"187" "540910862794760192" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "CloudExpoWire" TRUE FALSE 1417798173
+"188" "540909548702560257" "RT @dbtrends: Congratulations @Oracle on Exalytics In-Memory Machine X4-4Ê being named a #DBTA Trend-Setting Product for 2015 http://t.co/z…" "thatjeffsmith" TRUE FALSE 1417797860
+"189" "540909548694151168" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "LScatorchia" TRUE FALSE 1417797860
+"190" "540909525373825024" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "CloudJobFair" TRUE FALSE 1417797855
+"191" "540909264047333376" "RT @Oracle: .@OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. http://t.co/u0Li…" "orclaccelerate" TRUE FALSE 1417797792
+"192" "540909062301683712" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "SOAWorldExpo" TRUE FALSE 1417797744
+"193" "540908720088432641" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "VirtualizationE" TRUE FALSE 1417797663
+"194" "540908425505693696" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "Ulitzer" TRUE FALSE 1417797592
+"195" "540908107141251072" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "SYSCONmedia" TRUE FALSE 1417797516
+"196" "540907252472107008" "RT @RobertBrown2206: How @Oracle helped @ReadingCouncilReading move to #Oracle ERP #Cloud http://t.co/2JfKWKbjf1 http://t.co/9UIwd3cQx3" "blisslogixIT" TRUE FALSE 1417797313
+"197" "540902537826926592" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "Jeff88Ho" TRUE FALSE 1417796189
+"198" "540902261183246336" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "CloudExpo" TRUE FALSE 1417796123
+"199" "540900944226312193" "#HR thru the eyes of the employee &amp; the employee experience webcast. Join @PwC_UK and @Oracle to learn more http://t.co/gmSKNKCnL1 #Oracle" "RichardDoherty" FALSE FALSE 1417795809
+"200" "540900925037379586" "RT @ThingsExpo: Oracle's Internet of Things Suite for WebRTC ▸ http://t.co/hHctXjahsW @Oracle @OracleComms #WebRTC #IoT #M2M #API #Internet…" "webrtcdigest" TRUE FALSE 1417795804
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "541380016123019265" "RT @Martin_NB: Orbit visualisation with #javafx in 2D and 3D at #netbeansday at @Oracle in #munich by @SvenNB http://t.co/PPwAeG6QyL" "erskell" TRUE FALSE 1417650234
+"2" "541376018536497152" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "oraclemontgo" TRUE FALSE 1417650136
+"3" "541375953029844992" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "JHenriMARIN" TRUE FALSE 1417650125
+"4" "541375945299730432" "RT @jovan_haye: Truly blessed to be in the presence of these great #companies @OnXtweets @CommVault @theroyalflair @Oracle #amazing http://…" "ndongeyang_" TRUE FALSE 1417649536
+"5" "541375927356489728" "RT @Oracle: RT @OracleTeamUSA: Just announced: The 35th #AmericasCup to be held in June 2017 in Bermuda. #OracleTeamUSA" "argushermida" TRUE FALSE 1417647789
+"6" "541375917340508160" "RT @Oracle: .@OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. http://t.co/u0Li…" "argushermida" TRUE FALSE 1417647783
+"7" "541375908238884864" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "argushermida" TRUE FALSE 1417647750
+"8" "541375898675838976" "RT @AskariSI: Valuable insights, compelling research, and provocative discussions this morning. @GTEC #GTECSummit @Oracle #timewellspent #b…" "ChelLajeunesse" TRUE FALSE 1417647747
+"9" "541375888861179904" "Buy @Oracle Database From @Verizon and Save! By @VerizonAnne | [@VZCloud] http://t.co/wwGh5KSOtV" "NOVAdatacenters" FALSE FALSE 1417647734
+"10" "541375878765477888" "RT @jovan_haye: Truly blessed to be in the presence of these great #companies @OnXtweets @CommVault @theroyalflair @Oracle #amazing http://…" "abcollar" TRUE FALSE 1417647691
+"11" "541375873484480513" ".@Chrysler on using @Oracle #EPM to assist with company integration. [VIDEO] http://t.co/FFLglTXxhH http://t.co/6vvZoOqhiO" "ChetanDutta" FALSE FALSE 1417647621
+"12" "541375863770841089" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "m_carminati" TRUE FALSE 1417647410
+"13" "541375849065635840" "I loved @sunmicrosystems, but despise @Oracle, a creepy company that destroyed all the work and good will @OpenJonathan labored for." "TwittterBad" FALSE FALSE 1417645989
+"14" "541375838458249216" "Putting in work due to @EclipseFdn and @Oracle and @rails  hopefully I make it someday http://t.co/P2nuMu9P3w" "JavaDylan" FALSE FALSE 1417645963
+"15" "541375826152161280" "RT @jovan_haye: Truly blessed to be in the presence of these great #companies @OnXtweets @CommVault @theroyalflair @Oracle #amazing http://…" "ERIGG32" TRUE FALSE 1417645748
+"16" "541375761626963968" "RT @jovan_haye: Truly blessed to be in the presence of these great #companies @OnXtweets @CommVault @theroyalflair @Oracle #amazing http://…" "justinrenfroe" TRUE FALSE 1417644918
+"17" "541375754517643265" "RT @IntelITCenter: What does the \"most powerful 2-socket server @Oracle ever made\" look like? See what @JoshARosen had to say http://t.co/Q…" "intel_shahram" TRUE FALSE 1417644770
+"18" "541375747982917633" "RT @jovan_haye: Truly blessed to be in the presence of these great #companies @OnXtweets @CommVault @theroyalflair @Oracle #amazing http://…" "Childofthelord_" TRUE FALSE 1417644761
+"19" "541375739392954368" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "Vcroiset" TRUE FALSE 1417644739
+"20" "541375731302141952" "RT @jovan_haye: Truly blessed to be in the presence of these great #companies @OnXtweets @CommVault @theroyalflair @Oracle #amazing http://…" "jfox701" TRUE FALSE 1417644730
+"21" "541375719612633088" "@Oracle, I had to remove my Oracle12c from #Docker repo. Please, be so kind and provide your own container http://t.co/vex43NMi24" "damovsky" FALSE FALSE 1417644607
+"22" "541375708157997056" "RT @rtehrani: @Oracle Communications Unified Communications Suite Opens Field of #WebRTC Based Options http://t.co/LSVfAVZQRH" "webrtcdigest" TRUE FALSE 1417644605
+"23" "541375695394713600" "RT @IntelITCenter: What does the \"most powerful 2-socket server @Oracle ever made\" look like? See what @JoshARosen had to say http://t.co/Q…" "KboltonPorter" TRUE FALSE 1417644581
+"24" "541375671009034240" "RT @jovan_haye: Truly blessed to be in the presence of these great #companies @OnXtweets @CommVault @theroyalflair @Oracle #amazing http://…" "YappedApp" TRUE FALSE 1417644499
+"25" "541375652210151425" "RT @jovan_haye: Truly blessed to be in the presence of these great #companies @OnXtweets @CommVault @theroyalflair @Oracle #amazing http://…" "BYE_SarahKim" TRUE FALSE 1417644498
+"26" "541375615681970176" "RT @jovan_haye: Truly blessed to be in the presence of these great #companies @OnXtweets @CommVault @theroyalflair @Oracle #amazing http://…" "theroyalflair" TRUE FALSE 1417644489
+"27" "541375601966596096" "RT @jovan_haye: Truly blessed to be in the presence of these great #companies @OnXtweets @CommVault @theroyalflair @Oracle #amazing http://…" "TotallyNewTech" TRUE FALSE 1417644463
+"28" "541375586342813696" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "obruyere" TRUE FALSE 1417644453
+"29" "541368993718603776" "Truly blessed to be in the presence of these great #companies @OnXtweets @CommVault @theroyalflair @Oracle #amazing http://t.co/urwy65GZi6" "jovan_haye" FALSE FALSE 1417644450
+"30" "541365971898740736" "@Oracle Communications Unified Communications Suite Opens Field of #WebRTC Based Options http://t.co/LSVfAVZQRH" "rtehrani" FALSE FALSE 1417644315
+"31" "541361264757198848" "What does the \"most powerful 2-socket server @Oracle ever made\" look like? See what @JoshARosen had to say http://t.co/QRYjHeT9YM" "IntelITCenter" FALSE FALSE 1417644180
+"32" "541361110180323328" "@Oracle @Oraclejavamag Excellent way to help kids learn and have fun! #Minecraft or #LegoMindstorms http://t.co/xLzP3Fe9VC #Java powered" "BastLeblanc" FALSE FALSE 1417644130
+"33" "541350872765063168" "Connect, Control, Innovate with Oracle #ERP #Cloud. New @Oracle eBook presenting Finance Cloud solutions http://t.co/TyMKD315vx" "OracleFMS" FALSE FALSE 1417644007
+"34" "541337514510802944" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "fabriziogaetani" TRUE FALSE 1417643895
+"35" "541336908954349568" ".@larryellison's recent announcement that @Oracle was refocusing itself on the #cloud, made waves: http://t.co/9EYpv7vqaU" "SearchOracle" FALSE FALSE 1417643880
+"36" "541334766377660416" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "massagedocMI" TRUE FALSE 1417643844
+"37" "541334489042284545" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "balzac13" TRUE FALSE 1417643298
+"38" "541322069066383360" "Made ODI12c talk with Apple Connect to pull reports and load to any database. Ask me how I made this happen.  @oraclepartners @Oracle" "BrainODIGUY" FALSE FALSE 1417643093
+"39" "541315123458359296" "Grab an Eggnog and don’t miss out @Oracle #ERP #Cloud Live weekly demos on Finance best practices http://t.co/tRDw0veKpq" "JDG_Oracle" FALSE FALSE 1417643041
+"40" "541302761418018816" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "louis72" TRUE FALSE 1417642930
+"41" "541302607177080832" "Connect, Control, Innovate with Oracle #ERP #Cloud. New @Oracle eBook http://t.co/0fiLEP4H9H presenting Finance Cloud solutions" "JDG_Oracle" FALSE FALSE 1417642842
+"42" "541300454320128000" "RT @Oracle: What does innovation mean in the world of #HR ? Interview w/ @Oracle’s Henry Barenholz http://t.co/QHt2ht7yuC via @OracleHCM" "clofreire" TRUE FALSE 1417642802
+"43" "541290721752252417" "RT @Oracle: Are your organization's training needs being met? [#Infographic] via @Oracle_Edu http://t.co/AvgCMKuaup" "clofreire" TRUE FALSE 1417642793
+"44" "541289435724136448" "RT @Oracle: An innovative mix of hosted and #cloud solutions helps Shelf Drilling succeed in new waters - http://t.co/JG13g48GSa via @Oracl…" "clofreire" TRUE FALSE 1417642789
+"45" "541286014162313216" "RT @Oracle: Marketing #data needs to be carefully pruned like the finest of mustaches - http://t.co/lD7W8BqCIJ #Movember" "clofreire" TRUE FALSE 1417642774
+"46" "541283636931080193" "RT @Oracle: Shelf Drilling is \"In Sync with the #Cloud\" via @OracleProfit - http://t.co/bNWjqos8Zw" "clofreire" TRUE FALSE 1417642759
+"47" "541265039496212480" "RT @Oracle: Are two HPs better than one? via @OracleHardware  http://t.co/wTjJekqSK9" "clofreire" TRUE FALSE 1417642757
+"48" "541260280941281281" "RT @Oracle: How closely do consumers stick to their #holidayshopping plans? [#STUDY] http://t.co/DgXZBDSFS4 via @edisonresearch @Oracle" "clofreire" TRUE FALSE 1417642752
+"49" "541257585455022080" "RT @Oracle: The Internet of Things 101 - http://t.co/DRAtrQIjch #IoT via @Oraclejavamag" "clofreire" TRUE FALSE 1417642750
+"50" "541255093807349760" "RT @Oracle: Where will @OracleTeamUSA be defending the 35th #AmericasCup? Location revealed today at 11:30am ET. Watch live: http://t.co/Nx…" "clofreire" TRUE FALSE 1417642748
+"51" "541246178705158144" "RT @Oracle: RT @OracleTeamUSA: Just announced: The 35th #AmericasCup to be held in June 2017 in Bermuda. #OracleTeamUSA" "clofreire" TRUE FALSE 1417642743
+"52" "541237164487766016" "RT @Oracle: .@OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. http://t.co/u0Li…" "clofreire" TRUE FALSE 1417642741
+"53" "541235899032297475" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "clofreire" TRUE FALSE 1417642735
+"54" "541235029158805505" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "clofreire" TRUE FALSE 1417642733
+"55" "541227562362740736" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "clofreire" TRUE FALSE 1417642728
+"56" "541227562098524160" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "clofreire" TRUE FALSE 1417642725
+"57" "541225714163265536" "RT @Oracle: How does building a #cloud strategy w/ engineered systems enable organizations to be more agile, lean &amp; efficient? http://t.co/…" "bestcloudnews" TRUE FALSE 1417642515
+"58" "541218650296827905" "Our Mark Marshall weighs in on how to transform customer service from OK to excellent via @Oracle &amp; @Forbes http://t.co/MYlsjp0WcY" "OneMetTel" FALSE FALSE 1417641602
+"59" "541210909151354880" "RT @SearchOracle: Coexistence is the word for the latest @Oracle #cloud #strategy: http://t.co/WVb4r7Aa5h" "El53jah" TRUE FALSE 1417640860
+"60" "541209219689873409" "Find out how @SolairusAv soars using @Oracle #ERP #Cloud to provide better information to customers http://t.co/l04FZCPW5B" "OracleFMS" FALSE FALSE 1417640355
+"61" "541199667972022272" "RT @BTLeeBriggs: “@mgmcdonnell: BizTech has two @Oracle #ACE consultants for Apps &amp; Apps Tech - @ThomasSimkiss and @BTLeeBriggs ! Only 35 t…" "MegMcCullough75" TRUE FALSE 1417640067
+"62" "541197546249789440" "3 minute video on the benefits of attending the @Oracle Value Chain Summit: http://t.co/84JUA9K4p8. Meet with TCS #SCM experts there." "TCS_Oracle" FALSE FALSE 1417640042
+"63" "541177885839855616" "Coexistence is the word for the latest @Oracle #cloud #strategy: http://t.co/WVb4r7Aa5h" "SearchOracle" FALSE FALSE 1417640040
+"64" "541170277225205762" "“@mgmcdonnell: BizTech has two @Oracle #ACE consultants for Apps &amp; Apps Tech - @ThomasSimkiss and @BTLeeBriggs ! Only 35 total in the US\"" "BTLeeBriggs" FALSE FALSE 1417640004
+"65" "541168549121638400" "RT @i_m_dave: Rain rain rain @oracle http://t.co/pIbn566RXr" "alexkotopoulis" TRUE FALSE 1417639937
+"66" "541163778084466689" "@Oracle Thank you for being a Gold Level Sponsor of #AirForceITDay!" "CcorjayChuck" FALSE FALSE 1417639393
+"67" "541155167903563777" "RT @seanptario: There's still mainframes. That was the first industry that was going to be #destroyed - @LarryEllison @Oracle http://t.co/4…" "AllTemperature" TRUE FALSE 1417639316
+"68" "541138756376748032" "RT @KatieDuncanKD: See why great companies like @Oracle choose @LoadDynamiX for their #DataStorage needs. �� http://t.co/wVzdJNJrnx" "TechUG" TRUE FALSE 1417639177
+"69" "541122401153851392" "RT @AskariSI: Valuable insights, compelling research, and provocative discussions this morning. @GTEC #GTECSummit @Oracle #timewellspent #b…" "GTEC" TRUE FALSE 1417638570
+"70" "541119736827113473" "@Nephentur @Oracle highest level of water I've seen in the lake in a longgggg time" "i_m_dave" FALSE FALSE 1417638068
+"71" "541117625460219904" "RT @KatieDuncanKD: See why great companies like @Oracle choose @LoadDynamiX for their #DataStorage needs. �� http://t.co/wVzdJNJrnx" "Lilyspad58" TRUE FALSE 1417637893
+"72" "541090926483869696" "RT @KatieDuncanKD: See why great companies like @Oracle choose @LoadDynamiX for their #DataStorage needs. �� http://t.co/wVzdJNJrnx" "StorageUG" TRUE FALSE 1417637827
+"73" "541090156158402560" "@i_m_dave @Oracle Who cares? Cool office, cool boat." "Nephentur" FALSE FALSE 1417637816
+"74" "541084434963783680" "See why great companies like @Oracle choose @LoadDynamiX for their #DataStorage needs. �� http://t.co/g6umj5atlG" "RedBaseLists" FALSE FALSE 1417637703
+"75" "541079582258892801" "See why great companies like @Oracle choose @LoadDynamiX for their #DataStorage needs. �� http://t.co/7zw0a45TAC" "SalesStaffLeads" FALSE FALSE 1417637703
+"76" "541073881612951552" "See why great companies like @Oracle choose @LoadDynamiX for their #DataStorage needs. �� http://t.co/wVzdJNJrnx" "KatieDuncanKD" FALSE FALSE 1417637703
+"77" "541071242418483202" "Rain rain rain @oracle http://t.co/pIbn566RXr" "i_m_dave" FALSE FALSE 1417637479
+"78" "541062142095413248" "RT @mexico: High tech manufacturers located in Guadalajara include @Intel, @Oracle, @SCI_MS, and @TataCompanies" "ConsulmexStaAna" TRUE FALSE 1417637348
+"79" "541057891533217793" ".@cisco &amp; @oracle is climbing up our Top Most #Entrepreneurial Company Alum Network ranks! http://t.co/Z7ZakrMJ6I cc @VentureBeat @TiloBonow" "founderdating" FALSE FALSE 1417637106
+"80" "541048682158641152" "@OracleAcademy @Oracle Women's Leadership teach high school girls @java using #Alice in Bucharest, Romania. http://t.co/4HKJoVwprf" "java" FALSE FALSE 1417636867
+"81" "541034884161372160" ".@Chrysler on using @Oracle #EPM to assist with company integration. [VIDEO] http://t.co/4XL9144Q7v http://t.co/gYGq71bv6m" "ChetanDutta" FALSE FALSE 1417636822
+"82" "541034377782636544" "We would like to say CONGRAs to #SolarWinds' @DoBoutAnything on becoming an @Oracle ACE! http://t.co/ggg4XtMUdF http://t.co/HQ7blUKr9l" "solarwinds" FALSE FALSE 1417636812
+"83" "541031817722073088" "RT @BigData_Review: @Oracle #GoldenGate 12c Announces New Features which Enhance #DataIntegration Across Sources. #bigdata #ETL http://t.co…" "matsie_at_dtu" TRUE FALSE 1417636798
+"84" "541031444265435136" "@UMassBoston Dean Andrew Grossovsky thanks @Oracle for its support of #STEM education.  Cool!  #STEMHigherEd" "aderbenwick" FALSE FALSE 1417636767
+"85" "541022680627965952" "High tech manufacturers located in Guadalajara include @Intel, @Oracle, @SCI_MS, and @TataCompanies" "mexico" FALSE FALSE 1417636684
+"86" "541022408384458752" "RT @oraclebase: FFS learn something about the internet. Stop changing your bloody URLs or do redirects you muppets! @oracle #fail" "OyvindIsene" TRUE FALSE 1417636656
+"87" "541014375352381441" "Valuable insights, compelling research, and provocative discussions this morning. @GTEC #GTECSummit @Oracle #timewellspent #businessprocess" "AskariSI" FALSE FALSE 1417635869
+"88" "541013303091138561" "Think you have impressive partners? @Oracle has you beat. The @wef collab platform - https://t.co/QuiTgMvETK" "JAlexChurchill" FALSE FALSE 1417635514
+"89" "541008286309298176" ".@Mintigo Unveils Predictive Marketing App On @Oracle Marketing AppCloud http://t.co/Qy5sTa8rfD" "DG_Report" FALSE FALSE 1417634704
+"90" "541008272572944385" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "amzurtech" TRUE FALSE 1417634484
+"91" "541008262079184896" "RT @Mythics: Mythics awarded #Tennessee http://t.co/2dSSAhBTkG contract for @Oracle products and services http://t.co/k2kqwt1RHM @GCNtech @…" "NancyMetzger3" TRUE FALSE 1417634413
+"92" "541008250859028481" "@oracle what's wrong with you people please... i can't connect to the internet in peace without worrying about my eclipse malfunctioning?" "Engrtitus" FALSE FALSE 1417634351
+"93" "541008244823445505" "Attending the Social Customer Care #webinar with @chadanni, Social Strategy Lead at @Oracle consulting. https://t.co/ijtdDfLEPa" "HaleyRSchmidt" FALSE FALSE 1417633357
+"94" "541008234715164672" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "Presplaytech" TRUE FALSE 1417633340
+"95" "541008219464683520" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "OracleDBDev" TRUE FALSE 1417633050
+"96" "541007216325984256" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "trisetyarso" TRUE FALSE 1417632563
+"97" "541001793975496705" "4 bugs already solved this quarter, looks like a good start :) @Oracle" "Apocalypshit" FALSE FALSE 1417632372
+"98" "541001514454888449" "RT @TheEbizWizard: Jeff Porter: \"@Oracle doesn't have a Cloud strategy. Instead, Cloud enables existing strategy\" putting old gear in the c…" "NexGenCloudCon" TRUE FALSE 1417631997
+"99" "540997401348030464" "Cant connect to My @oracle Support, this is not a good sign." "quick13" FALSE FALSE 1417631537
+"100" "540995012272467968" "\"AMI Analytics for Distribution Operations: Myth or Reality?\" Free Webinar 12/11@utilanalytics @PECOconnect @Oracle  https://t.co/l13lXbGsf3" "utilanalytics" FALSE FALSE 1417631096
+"101" "540994684257304576" "\"AMI Analytics for Distribution Operations: Myth or Reality?\" Free Webinar 12/11@utilanalytics @PECOconnect @Oracle  https://t.co/3grPNQE3YD" "EnergyCentral" FALSE FALSE 1417631095
+"102" "540991174832422912" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "thebradsmith" TRUE FALSE 1417631046
+"103" "540990046497931265" "Fascinating morning with @Oracle and the User Experience team looking at new \"stuff\". Some exciting things coming" "BBaconBusiness" FALSE FALSE 1417630922
+"104" "540988484551319553" "RT @JavaFact: Try the latest @microfocus #VisualCOBOL update - http://t.co/fGXHVkxL46 now certified for @Oracle #Linux #COBOL #JVM" "JavaFact" FALSE FALSE 1417630543
+"105" "540986242473533440" "Mythics awarded #Tennessee http://t.co/2dSSAhBTkG contract for @Oracle products and services http://t.co/k2kqwt1RHM @GCNtech @govloop" "Mythics" FALSE FALSE 1417629827
+"106" "540985819172208641" "RT @crmitsolutions: #Socialmedia - #custexp obstacle or enabler? @oraclesocial @OracleCX @oracle @oraclepartners http://t.co/Eoe2ZwjOeC htt…" "cvkattookaran" TRUE FALSE 1417629530
+"107" "540985386168639488" "Have you signed up yet? Join us for: @oracle Business Intelligence Cloud Service (#BICS) Overview and Demo http://t.co/kFw084ZBQP" "PerfArchitects" FALSE FALSE 1417628825
+"108" "540985187728105473" "MT @Devoxx4Kids: Watch @Oraclejavamag interviewing kids at the \"Create the Future @Java\" Workshop @Oracle HQ Aug '14 http://t.co/UM1jcRuPX5" "OracleAcademy" FALSE FALSE 1417628735
+"109" "540984843597651968" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "thehautemommy" TRUE FALSE 1417628725
+"110" "540983129578930176" "RT @oraclemagazine: Zero data loss recovery appliance simplifies data protection @Oracle http://t.co/TolAdVqwxj http://t.co/rYSHGI2ypf" "OracleLover0" TRUE FALSE 1417628602
+"111" "540982372951261184" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "aparaskev" TRUE FALSE 1417628241
+"112" "540980473812762624" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "syawal" TRUE FALSE 1417628037
+"113" "540980447879376897" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "jtang_8" TRUE FALSE 1417627908
+"114" "540980376777551872" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "Mccallalex1" TRUE FALSE 1417627719
+"115" "540979744792002560" "Don't miss \"Creating Next-Generation Digital Experiences\" with @Oracle at 12:40 in the #gilbane Product Lab" "gilbaneboston" FALSE FALSE 1417627220
+"116" "540976525051695104" "Don't miss \"Creating Next-Generation Digital Experiences\" with @Oracle at 12:40 in the #gilbane Product Lab" "gilbane" FALSE FALSE 1417627219
+"117" "540976478998253569" ".@Oracle Modifying Minecraft FTW!" "ITzZ_DannieXD" FALSE FALSE 1417627141
+"118" "540972584440188928" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "mccree_lake" TRUE FALSE 1417627141
+"119" "540972378801442816" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "eclubproject" TRUE FALSE 1417627127
+"120" "540972018271674368" "RT @Oracle: Kids are coding: animations, modifying Minecraft, building LEGO Mindstorms, all in #Java - http://t.co/7nroi4LBS0 via @Oracleja…" "jugahmedabad" TRUE FALSE 1417627119
+"121" "540971072976199680" "Jeff Porter: \"@Oracle doesn't have a Cloud strategy. Instead, Cloud enables existing strategy\" putting old gear in the cloud #NexGenCloud" "TheEbizWizard" FALSE FALSE 1417627104
+"122" "540971041971908608" "Jeff Porter: \"@Oracle doesn't have a Cloud strategy. Instead, Cloud enables existing strategy\" putting old gear in the cloud @NexGenCloudCon" "TheEbizWizard" FALSE FALSE 1417627040
+"123" "540971028365574145" "Real-Time feed of company contracts, original agreements and executive updates from Oracle $ORCL @oracle http://t.co/bnOJZva77D" "DailyContracts" FALSE FALSE 1417627020
+"124" "540970962963820544" "RT @oraclemagazine: Zero data loss recovery appliance simplifies data protection @Oracle http://t.co/pd77bgrgtv" "OC_WIRE" FALSE FALSE 1417626611
+"125" "540968635825520640" "Want more on @Oracle's news this wk? Find out what kind of work it takes to make #bigdata &amp; #DB magic happen http://t.co/tAUqDYzH3G" "IntelITCenter" FALSE FALSE 1417626600
+"126" "540967040170098688" "@jburton &amp; @kevinclosson I just met with an @oracle #exadata customer.  They're frustrated because its EXA-spensive, closed &amp; complex." "MichaelWing23" FALSE FALSE 1417626494
+"127" "540966326450151425" ".@Oracle rep: have been counting the word 'data' frequently at #icgfm14, glad that I came" "dalytics" FALSE FALSE 1417626119
+"128" "540964279801761793" "FFS learn something about the internet. Stop changing your bloody URLs or do redirects you muppets! @oracle #fail" "oraclebase" FALSE FALSE 1417626020
+"129" "540964232763015169" "Mark Hurd talks to CIOs on benefits of the cloud.  http://t.co/tXVbtKKbmQ  @oracle #CIO #CXO" "robertpopovic" FALSE FALSE 1417625394
+"130" "540962293040050176" "Our first #GTECSummit is a wrap! Thank you to all attendees and our sponsor @Oracle @OracleGov for a great event!" "GTEC" FALSE FALSE 1417625111
+"131" "540960166104293376" "Gartner Identity &amp; Access Management Summit, Dec 2-4, 2014 w. Amit Jasuja via @oracle http://t.co/baFIj8hwJv http://t.co/8rOjzPRJv5" "hagenhc" FALSE FALSE 1417624864
+"132" "540958897402433536" "RT @crmitsolutions: #Socialmedia - #custexp obstacle or enabler? @oraclesocial @OracleCX @oracle @oraclepartners http://t.co/Eoe2ZwjOeC htt…" "oraclepartners" TRUE FALSE 1417624704
+"133" "540958638933045248" "RT @jrobertmartinez: Safe to assume a partnership between @Oracle &amp; @Diablo_Tech to be announced in the coming months. Nothing confirmed ye…" "Diablo_Tech" TRUE FALSE 1417624347
+"134" "540958601247207424" "RT @OracleAcademy: PHOTO: @OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. htt…" "OracleCXFan" TRUE FALSE 1417624220
+"135" "540958565532700672" "Q&amp;A w/@Oracle's Senior VP @ShawnPrice1000 starting shortly, Tweet us your questions w/hashtag #GTECSummit/come up to the mic! @OracleGov" "GTEC" FALSE FALSE 1417624102
+"136" "540957754072915968" "RT @DSIMobile: Mobile adoption: 8x faster than that of the web. #IoT will far surpass that pace. @Oracle's Dawn Baker: \"Buckle up.\" #jdee1i…" "zillioninfotech" TRUE FALSE 1417623958
+"137" "540954950592118784" "RT @DSIMobile: Mobile adoption: 8x faster than that of the web. #IoT will far surpass that pace. @Oracle's Dawn Baker: \"Buckle up.\" #jdee1i…" "SmartbridgeLLC" TRUE FALSE 1417623918
+"138" "540953982051831808" "\"How do I enable this self-learning organization?\" Closing keynote \"Out of Line to Online; Verbal to Digital - A Cloud Journey\" @Oracle" "GTEC" FALSE FALSE 1417623800
+"139" "540953284799127552" "Safe to assume a partnership between @Oracle &amp; @Diablo_Tech to be announced in the coming months. Nothing confirmed yet though. #ITPT" "jrobertmartinez" FALSE FALSE 1417623669
+"140" "540952932003241984" "Oracle Introduces its Solution for Project-Driven Supply Chain to Help Customers Improve Project P... http://t.co/a5B4u9GXhC via @Oracle" "lanningtech" FALSE FALSE 1417623662
+"141" "540950254942973953" "Another #Plus for the @Maxthon #CloudBrowser seldom crashes unlike @firefox @APPLEOFFIClAL @msdev @msdevUK @Oracle" "BrianAntao" FALSE FALSE 1417623629
+"142" "540947237237719040" "RT @mintigo: “Mintigo's solution on our @Oracle
+Marketing #Cloud helps deliver #predictivemarketing and lead
+scoring\" -@jstetic http://t.co…" "John_Bara" TRUE FALSE 1417623506
+"143" "540946670570471424" "RT @Oracle: .@OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. http://t.co/u0Li…" "SIPA_WIL" TRUE FALSE 1417623207
+"144" "540946217375920128" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "GhirardiEric" TRUE FALSE 1417623115
+"145" "540945602469584896" "Txs to my pal Bob Evans,@bobevansIT; Chief Comm's Officer @Oracle, for leading a gr8 breakfast &amp; learn @businessdotcom yesterday." "TonyUphoff" FALSE FALSE 1417622988
+"146" "540944059930800128" "RT @GTEC: Closing keynote: \"Out of Line to Online; Verbal to Digital - A Cloud Journey\" w/@Oracle's Shawn Price #GTECSummit http://t.co/djK…" "ChelLajeunesse" TRUE FALSE 1417622942
+"147" "540942191489593345" "RT @GTEC: Closing keynote: \"Out of Line to Online; Verbal to Digital - A Cloud Journey\" w/@Oracle's Shawn Price #GTECSummit http://t.co/djK…" "cpiedrah" TRUE FALSE 1417622605
+"148" "540942132325130241" "RT @seanptario: There's still mainframes. That was the first industry that was going to be #destroyed - @LarryEllison @Oracle http://t.co/4…" "HiThisIsLuca" TRUE FALSE 1417622554
+"149" "540942081837895680" "There's still mainframes. That was the first industry that was going to be #destroyed - @LarryEllison @Oracle http://t.co/4KpawaIU7y" "seanptario" FALSE FALSE 1417622525
+"150" "540938635701649409" "RT @SearchStorageTT: Details on the new high-end ZFS storage appliance from @Oracle via @TTstorageCarol http://t.co/Z15TUVD6q1" "pkoutoupis" TRUE FALSE 1417622468
+"151" "540933827103711232" "Closing keynote: \"Out of Line to Online; Verbal to Digital - A Cloud Journey\" w/@Oracle's Shawn Price #GTECSummit http://t.co/djKXIjVvq3" "GTEC" FALSE FALSE 1417622205
+"152" "540933685160050688" "RT @Oracle_India: View this video to know how @Oracle provides leadership solutions by maximizing #bigdata &amp; make you business ready. http:…" "pmahara" TRUE FALSE 1417621623
+"153" "540932131078541312" "RT @Oracle_India: #Hyderabad, #Bangalore &amp; #Noida reap benefits of lower cost, easy manageability &amp; scalability @Oracle OpenStack. http://t…" "pmahara" TRUE FALSE 1417621566
+"154" "540931825703870465" "RT @Oracle: RT @OracleTeamUSA: Just announced: The 35th #AmericasCup to be held in June 2017 in Bermuda. #OracleTeamUSA" "abbyrios_oracle" TRUE FALSE 1417621237
+"155" "540928931302768641" "RT @Oracle: .@OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. http://t.co/u0Li…" "abbyrios_oracle" TRUE FALSE 1417621222
+"156" "540926193403695104" "RT @DSIMobile: Mobile adoption: 8x faster than that of the web. #IoT will far surpass that pace. @Oracle's Dawn Baker: \"Buckle up.\" #jdee1i…" "kevinjcobb" TRUE FALSE 1417621212
+"157" "540925942571339777" "Mobile adoption: 8x faster than that of the web. #IoT will far surpass that pace. @Oracle's Dawn Baker: \"Buckle up.\" #jdee1infocus" "DSIMobile" FALSE FALSE 1417621140
+"158" "540923427675463680" ".@Oracle’s Senior VP @ShawPrice1000 to take the stage for our closing keynote in 15mins! #GTECSummit" "GTEC" FALSE FALSE 1417620801
+"159" "540922805131288576" "Congratulations @Oracle on Exalytics In-Memory Machine X4-4Ê being named a #DBTA Trend-Setting Product for 2015 http://t.co/zamTGB3qbx" "dbtrends" FALSE FALSE 1417620664
+"160" "540922746038128640" "Step up to the mic! Live Armchair Discussion Q&amp;A taking place w/@Oracle @OracleGov @WestJet #GTECSummit http://t.co/vIv99D8X7g" "GTEC" FALSE FALSE 1417620512
+"161" "540921926516871168" "Go @MammothDB - hottest #bigdata #analytics company replacing @Teradata and @Oracle via @shiraabel @ProductHunt http://t.co/jKQMPuuZUX" "lvelev" FALSE FALSE 1417619818
+"162" "540921887920898048" "RT @TTstorageCarol: New faster ZS4-4 #storage appliance from @Oracle features pluggable #database analytics, data-at-rest encryption http:/…" "GkTTStorage" TRUE FALSE 1417619786
+"163" "540921805557743616" "Armchair Discussion w/@Oracle's Ken Currie + @WestJet's James Callaghan is underway! Tweet us your questions/Come up to the mic! #GTECSummit" "GTEC" FALSE FALSE 1417619699
+"164" "540921685860691968" "@redrobinburgers leverages @Oracle ERP #cloud to improve efficiency as well as their bottom line
+ http://t.co/6KuPyh42jj" "BrianCWilliams7" FALSE FALSE 1417619364
+"165" "540921685533540352" "New faster ZS4-4 #storage appliance from @Oracle features pluggable #database analytics, data-at-rest encryption http://t.co/jcQpiosbOf" "TTstorageCarol" FALSE FALSE 1417618379
+"166" "540921453806620672" "HR through the eyes of the employee &amp; the employee experience webcast. Join @PwC_UK and @Oracle to learn how #HR tec…http://t.co/zRGdDzFXRB" "RichardDoherty" FALSE FALSE 1417618305
+"167" "540921092496691200" "@Oracle Introduces Its Solution for Project-Driven #SupplyChain to Help Customers Improve Performance &amp; Profitability http://t.co/LWBKSByc54" "CooperNCarbone" FALSE FALSE 1417618269
+"168" "540920746051375104" "The fight isn't over! Can @Oracle win the fight vs. Oregon? http://t.co/rq3fpYHQUo #techtalk #technews" "ALKUPeopleSoft" FALSE FALSE 1417617691
+"169" "540920193409884160" "@Oracle smart phone" "MladenMrkic" FALSE FALSE 1417617650
+"170" "540918970950631424" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "MladenMrkic" TRUE FALSE 1417617636
+"171" "540918492526956544" "RT @IntelITCenter: Today @Oracle shared details on their new servers based on #XeonE5. Get the background w/ @TechAllyson on Chip Chat http…" "DanieleRiios" TRUE FALSE 1417617157
+"172" "540917008150192128" "RT @geoff_swaffer: 5 ideas on #Data: Insight from @Oracle executives &amp; customers http://t.co/mfmLNcGK7E via @OracleProfit" "OracleProfit" TRUE FALSE 1417616966
+"173" "540916767560720386" "Details on the new high-end ZFS storage appliance from @Oracle via @TTstorageCarol http://t.co/Z15TUVD6q1" "SearchStorageTT" FALSE FALSE 1417615620
+"174" "540916674040717312" "Today @Oracle shared details on their new servers based on #XeonE5. Get the background w/ @TechAllyson on Chip Chat http://t.co/HHs5mQzu8m" "IntelITCenter" FALSE FALSE 1417615500
+"175" "540916631732359170" ".@Chrysler on using @Oracle #EPM to assist with company integration. [VIDEO] http://t.co/IWbN4kR8iC http://t.co/I7tpqkueLP" "ChetanDutta" FALSE FALSE 1417615234
+"176" "540916544885104640" "Running late due to the weather? There's still time to check in! Join us for today's #GTECSummit sponsored by @Oracle @OracleGov" "GTEC" FALSE FALSE 1417614843
+"177" "540916297949663232" "@bryce @pmarca @tgoetz My Beehive state! Utah tech companies like @Adobe @eBay @Oracle should speak up - they were once new and small, too" "mittcoats" FALSE FALSE 1417614136
+"178" "540916282192039936" "Solairus Aviation Soars with Oracle ERP Cloud Service -  http://t.co/VvfPumiq7p Find out how @SolairusAv  Soars using @Oracle #ERP #Clou..." "MoserMaCH" FALSE FALSE 1417613716
+"179" "540916022577217536" "Oracle introduceert ZFS Storage ZS4-4. @oracle @oracle_nl http://t.co/cErd0qYGch" "WitoldKepinski" FALSE FALSE 1417613598
+"180" "540915624604893184" "Latest vids fr @SAP @Oracle @ADP @Sage @infor @microsoft @EYnews @PwC_LLP @Accenture @Deloitte &amp; much more! @THW_YouT http://t.co/qHUyGK3kZa" "thehrisworld" FALSE FALSE 1417613549
+"181" "540915250972090368" "Hear speakers from @IBM @CompTia @Oracle and @salesforce today @CloudSummits http://t.co/N2nHnVS9FE" "ConferenceNotes" FALSE FALSE 1417613116
+"182" "540913533748125696" "@Oracle,#oracle, short video - funny on dotcoms Apps, http://t.co/u7ULoPM2Q9" "GaryBrown65" FALSE FALSE 1417612432
+"183" "540911816675954689" "RT @GTEC: .@GTEC Executive Director @ChelLajeunesse will be welcoming our guests in 20 mins! #GTECSummit sponsored by @Oracle @OracleGov" "ChelLajeunesse" TRUE FALSE 1417612105
+"184" "540911814310395904" ".@GTEC Executive Director @ChelLajeunesse will be welcoming our guests in 20 mins! #GTECSummit sponsored by @Oracle @OracleGov" "GTEC" FALSE FALSE 1417611613
+"185" "540911754394755072" "5 ideas on #Data: Insight from @Oracle executives &amp; customers http://t.co/mfmLNcGK7E via @OracleProfit" "geoff_swaffer" FALSE FALSE 1417611059
+"186" "540911462597009409" "RT @KumaranSystems: Oracle Forms Solutions Webinar @KumaranSystems @oracleopenworld @Oracle @DOAGeV  #Oracle #ADF @OracleFormsPM http://t.c…" "vsrorama" TRUE FALSE 1417610247
+"187" "540910862794760192" "RT @KumaranSystems: Oracle Forms Solutions Webinar @KumaranSystems @oracleopenworld @Oracle @DOAGeV  #Oracle #ADF @OracleFormsPM http://t.c…" "tweet2gb" TRUE FALSE 1417610139
+"188" "540909548702560257" "RT @KumaranSystems: Oracle Forms Solutions Webinar @KumaranSystems @oracleopenworld @Oracle @DOAGeV  #Oracle #ADF @OracleFormsPM http://t.c…" "achu_peace" TRUE FALSE 1417610011
+"189" "540909548694151168" "@theadamgray Thanks for the RT how is it going at @Oracle Mr all things social ?" "SteveSongaila" FALSE FALSE 1417609942
+"190" "540909525373825024" "Oracle Forms Solutions Webinar @KumaranSystems @oracleopenworld @Oracle @DOAGeV  #Oracle #ADF @OracleFormsPM http://t.co/xlzdhXtoCp" "KumaranSystems" FALSE FALSE 1417608478
+"191" "540909264047333376" "RT @oraclemagazine: Zero data loss recovery appliance simplifies data protection @Oracle http://t.co/TolAdVqwxj http://t.co/rYSHGI2ypf" "choran" TRUE FALSE 1417608470
+"192" "540909062301683712" "RT @Oracle: How closely do consumers stick to their #holidayshopping plans? [#STUDY] http://t.co/jNiAd8amYM via @edisonresearch" "OracleMktgCloud" FALSE FALSE 1417608065
+"193" "540908720088432641" "RT @oraclemagazine: Zero data loss recovery appliance simplifies data protection @Oracle http://t.co/TolAdVqwxj http://t.co/rYSHGI2ypf" "MujeebuRahman" TRUE FALSE 1417607203
+"194" "540908425505693696" ".@Oracle paves way for firms seeking enterprise mobility via @TheNation http://t.co/H4HDsStPuY" "Mubaloo" FALSE FALSE 1417607114
+"195" "540908107141251072" ".@Oracle updates #cloud services, introduces a new engineered system &amp; #hardware http://t.co/fl4jkRNJNX" "geoff_swaffer" FALSE FALSE 1417604818
+"196" "540907252472107008" "RT @d_vermeij: Stay plugged in, without being tied down. @Oracle #Mobile. Simply Connected. [#video] http://t.co/VwsYvHLFpt http://t.co/Aqb…" "hvanabswoude" TRUE FALSE 1417604403
+"197" "540902537826926592" "#Hyderabad, #Bangalore &amp; #Noida reap benefits of lower cost, easy manageability &amp; scalability @Oracle OpenStack. http://t.co/rke8UR0bde" "Oracle_India" FALSE FALSE 1417603522
+"198" "540902261183246336" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "OracleLover0" TRUE FALSE 1417603358
+"199" "540900944226312193" "RT @EnigenCRM: Enigen UK have arrived @oracle Dublin #EnigenOnTheCase looking forward to discussing Oracle CX http://t.co/GGERzRkYCB" "paulgtrainer" TRUE FALSE 1417602484
+"200" "540900925037379586" "@Oracle Unveils Flagship Oracle ZFS Storage ZS4-4 #NAS System with Extreme Performance and Innovations for Oracle# Database 12c" "CIO_Today_UK" FALSE FALSE 1417602338

@@ -1,0 +1,60 @@
+
+---
+title: "Stock Performance in Relation to Twitter Sentiment"
+
+---
+
+Twitter sentiment, which was used in my graph looked at general sentiment of 200 stocks that contained the Walmart ticker symbol of WMT. The raw sentiment score was then divided by 100. The change in stock price that I used was the stock price subtracted from \$85.
+
+There appears to be a correlation between general twitter sentiment and stock price. For 4 out of the 5 days during the week of Dec 1st through 5th, positive or negative Twitter sentiment corresponded to the day’s stock price movement. 
+
+The only exception to the general corelation between stock price and Twitter sentiment was Thursday, Dec 4th in which Tweets regarding WMT were positive while the day’s overall movement was negative. This was likely due to a positive spike in stock price during the intraday trading on the 4th in which the stock jumped over a point but still wasn’t able to make up the loss incurred during overnight trading during Dec 3rd and 4th in which it lost nearly a point and a half from its high on the 3rd.
+
+Sentiment dropped sharply on Dec 3rd and 4th likely due to UBS’s announcement that they had downgraded WMT from a Buy to Neutral. Shares have climbed by 11\% over the last month due to lower gas prices, good holiday sales and overall market momentum. Analysts believe that WMT is approaching is high end of its price potential and investors are taking earnings.
+
+```{r, echo=FALSE, warning=FALSE}
+library(ggplot2)
+library(reshape2)
+
+
+December <- c(1,2,3,4,5)
+y <- c(.18, .46, .21, .60, -.21)
+y1 <- c(1.27, 1.40, -.08, -.26, -.89)
+
+sentiment <- data.frame(December =December , y=y)
+stock <- data.frame(December=December, y=y1)
+
+##plot(December,y,type="o", col="red")
+##points(December,y1,type="o",col="blue")
+
+zz <- melt(list(sentiment=sentiment, stock=stock), id.vars="December")
+
+ggplot(zz, aes(December, y=value, color=L1)) + 
+  geom_point() + 
+  geom_line(data=zz) +
+  scale_color_manual("Dataset", 
+  values = c("sentiment" = "darkgreen", "stock" = "blue"))
+```
+
+
+December 1st Twitter Sentiment
+
+<img src="https://github.com/autosoap/twitter-stocks/blob/master/Paul/TwitterSentiment/12-1.pdf?raw=true">
+
+December 2nd Twitter Sentiment
+
+<img src="https://github.com/autosoap/twitter-stocks/blob/master/Paul/TwitterSentiment/12-2.pdf?raw=true">
+
+December 3rd Twitter Sentiment
+
+<img src="https://github.com/autosoap/twitter-stocks/blob/master/Paul/TwitterSentiment/12-3.pdf?raw=true">
+
+December 4th Twitter Sentiment
+
+<img src="https://github.com/autosoap/twitter-stocks/blob/master/Paul/TwitterSentiment/12-4.pdf?raw=true">
+
+December 5th Twitter Sentiment
+
+<img src="https://github.com/autosoap/twitter-stocks/blob/master/Paul/TwitterSentiment/12-5.pdf?raw=true">
+
+
